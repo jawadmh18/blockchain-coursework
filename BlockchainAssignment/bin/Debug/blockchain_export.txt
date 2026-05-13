@@ -1,0 +1,28 @@
+Block Index: 0
+Timestamp: 5/13/2026 5:10:27 PM
+Hash: 0000649e0cf76de844748319c8d943d341097e38140934e9a7afa7cc8ad6d8c6
+Previous Hash: 
+Merkle Root: 
+Nonce: 40274
+Difficulty: 4
+Mining Time: 2.3333536 seconds
+Transactions: 0
+
+Block Index: 1
+Timestamp: 5/13/2026 5:14:39 PM
+Hash: 0000bcc080d3f20e6e38e6f453a0181d6a4b24e600255ccddd1bf1f42ce8346a
+Previous Hash: 0000649e0cf76de844748319c8d943d341097e38140934e9a7afa7cc8ad6d8c6
+Merkle Root: 582a2b2362a982c68d1b0503b55a1f6500ec646e5782dd48402db634f43589fa
+Nonce: 23573
+Difficulty: 4
+Mining Time: 1.267035 seconds
+Transactions: 1
+
+Transaction Hash: 582a2b2362a982c68d1b0503b55a1f6500ec646e5782dd48402db634f43589fa
+Digital Signature: P69A6TAdj9RBSsys6Z8mXRXpLgutMi8RHrAg6PgsrzW4bGECtlEGPspFdzPJAlpyl+wvCx/oTEMr/FqphWfs/Q==
+Timestamp: 5/13/2026 5:14:39 PM
+Amount: 25
+Fee: 0
+Sender Address: Mine Rewards
+Receiver Address: 1ue003TKOmEiDPMCBoZpD4Bql9gHoX7iFk2ELFwaVM0YcBRXBFy3KFsixt/meKKj92j6dHoGqwLuuuNB8cgydQ==
+
